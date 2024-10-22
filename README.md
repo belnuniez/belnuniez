@@ -1,8 +1,7 @@
-# 👋 Hi, I'm Belén!
+# Hi, I'm Belén!
 
 🎓 **Full Stack Development student** at UTN (Argentina)  
-🎨 **Graphic Designer** from UBA (Argentina)
-
+🎨 **Graphic Designer** advanced student at UBA (Argentina)
 
 
 ## 💻 Skills
@@ -24,7 +23,6 @@
 
 ## ✉️ Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belnuniez)  
-  
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/belnuniez)  
   
 📧 [Email me](mailto:gabinuniez237@gmail.com)
