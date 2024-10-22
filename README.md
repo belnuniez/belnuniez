@@ -1,7 +1,7 @@
 # Hi, I'm Belén!
 
 👩🏻‍💻 **Full Stack Development student** at UTN (Argentina)  
-🎨 **Graphic Designer advanced student** at UBA (Argentina)
+🎨 **Graphic Designer** from FADU-UBA (Argentina)
 
 
 ## 💻 Skills
