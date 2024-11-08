@@ -1,8 +1,7 @@
 # Hi, I'm Belén!
 
-👩🏻‍💻 **Full Stack Development student** at UTN (Argentina)  
-🎨 **Graphic Designer** from FADU-UBA (Argentina)
-
+👩🏻‍💻 **Full Stack Development student** at UTN
+🎨 **Graphic Designer** from FADU-UBA
 
 ## 💻 Skills
 ### Front-End Development
@@ -20,6 +19,7 @@
 ## 🌱 Currently Learning
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ## ✉️ Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belnuniez)  
