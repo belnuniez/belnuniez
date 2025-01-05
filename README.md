@@ -1,7 +1,7 @@
 # Hi, I'm Belén!
 
 👩🏻‍💻 **Full Stack Development student** at UTN  
-🎨 **Graphic Designer** advanced student from FADU-UBA  
+🎨 **Graphic Design** advanced student from FADU-UBA  
 
 ## 💻 Skills
 ### Front-End Development
